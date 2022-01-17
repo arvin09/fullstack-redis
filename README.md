@@ -1,3 +1,8 @@
+## What is this about
+
+Using Redis in Memory database to creata full stack application 
+for adding car data and searching cars
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
